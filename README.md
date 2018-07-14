@@ -11,7 +11,7 @@ anonymous is an assistant app to managing different tasks. like you can talk and
 <img src="https://preview.ibb.co/nCHaNT/3_slide.png" width="200">
 </div>
 
-## Getting Started
+## Getting Started [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
 To get the project. All you have to do is to download the zip file in github OR you can clone this 
 project in github using git clone .This project have including firebase and WPapi (Wordpress API to get realtime posts as JSON response).
 
