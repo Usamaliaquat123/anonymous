@@ -1,5 +1,5 @@
 
-#  :warning: This app is in construction 	:warning: :warning: :warning: :warning: :warning:
+#  :warning: This app is under construction 	:warning: :warning: :warning: :warning: :warning:
 # anonymous is now your personal assistant! :smiley:
 
 anonymous is an assistant app to managing different tasks. like you can talk and app respond like a human. It's based on nltk python library and we deploy nltk services in the cloud. So we can use it weather an api and sdk's.
